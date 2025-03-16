@@ -1,6 +1,2 @@
-# meu-primeiro-repo
-Este é o meu primeiro repositório no Github
-
-Fiz uma alteração no repositório remoto.
-
-Fiz uma alterção no repositório local.
+# projeto-entregas-sprint1
+meu repositório no GitHub
